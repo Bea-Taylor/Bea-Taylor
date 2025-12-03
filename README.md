@@ -5,15 +5,18 @@ I'm a post-doc in the Centre for Advanced Spatial Analysis at UCL, where I'm cur
 ## What's on my GitHub? 
 ### Current work 
 * Analysing planning applications filed in London
-* NLP processing of free-text descriptions 
+* NLP processing of free-text descriptions
+* Data analysis on social housing, and homelessness in London
+* Lecture slides and resources for CASA007
 ### PhD work
 * Work developing a bayesian ranking model for healthcare questionnaires
 * Work analysing MRI scans using machine learning
 
 ## Languages 
-* Python 
+* Python 😎
 
 ## Techniques 
 * NLP
-* Developing probabilistic machine learning models 
+* Developing probabilistic machine learning models
+* Data analysis 
 * Traditional machine learning 
