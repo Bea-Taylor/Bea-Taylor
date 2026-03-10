@@ -1,6 +1,6 @@
 # Hi there, I'm Bea Taylor #
 
-I'm a post-doc in the Centre for Advanced Spatial Analysis at UCL, where I'm currently working on using ml to understand residential developments in London in a data-driven way. I completed my PhD in the Centre for Medical Image Computing, UCL. My PhD project focused on developing, and applying, ml data-driven methods to understand disease progression in dementia.
+I'm a post-doc in the Centre for Advanced Spatial Analysis at UCL, where I'm currently working on using ML to understand residential developments in London in a data-driven way. I completed my PhD in the Centre for Medical Image Computing, UCL. My PhD project focused on developing, and applying, ML data-driven methods to understand disease progression in dementia.
 
 ## What's on my GitHub? 
 ### Current work 
@@ -11,12 +11,15 @@ I'm a post-doc in the Centre for Advanced Spatial Analysis at UCL, where I'm cur
 ### PhD work
 * Work developing a bayesian ranking model for healthcare questionnaires
 * Work analysing MRI scans using machine learning
+### General 
+* Source code for my quarto website 
+* Some resources I've compiled on writing nice clean code 
 
 ## Languages 
-* Python 😎
+* Python😎🐍
 
 ## Techniques 
 * NLP
-* Developing probabilistic machine learning models
+* Probabilistic machine learning models
 * Data analysis 
-* Traditional machine learning 
+* (hopefully) some nice data vis 
